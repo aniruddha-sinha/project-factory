@@ -1,4 +1,3 @@
-billing_account_id = "01E5EF-4887D4-D0DFF1"
 api_list = [
   "compute.googleapis.com",
   "iam.googleapis.com",
