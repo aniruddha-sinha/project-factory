@@ -3,6 +3,7 @@ data "google_secret_manager_secret_version" "billing_account_id_secret" {
   project  = "odin-shared-master"
   secret   = "billing-account-id-secret"
 }
+
 module "google_cloud_project" {
   source              = "terraform-google-modules/project-factory/google//modules/fabric-project"
   parent              = "n/a"
