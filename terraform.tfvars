@@ -4,5 +4,6 @@ api_list = [
   "container.googleapis.com",
   "artifactregistry.googleapis.com",
   "oslogin.googleapis.com",
-  "storage.googleapis.com"
+  "storage.googleapis.com",
+  # "cloudresourcemanager.googleapis.com"
 ]
