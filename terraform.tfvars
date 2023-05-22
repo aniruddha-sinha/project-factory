@@ -5,5 +5,9 @@ api_list = [
   "artifactregistry.googleapis.com",
   "oslogin.googleapis.com",
   "storage.googleapis.com",
-  # "cloudresourcemanager.googleapis.com"
+  "cloudresourcemanager.googleapis.com",
+  "cloudasset.googleapis.com"
 ]
+
+# "cloudbuild.googleapis.com",
+#  "sqladmin.googleapis.com",
