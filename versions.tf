@@ -1,7 +1,7 @@
 terraform {
   backend "gcs" {
     bucket = "odin-admin-state-bkt"
-    prefix = "terraform/state"
+    prefix = "terraform/project/state"
   }
   required_providers {
     google = {
